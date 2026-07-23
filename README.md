@@ -57,27 +57,27 @@ I am a Computer Science undergraduate at **Lanzhou University**, expected to gra
   </tr>
 </table>
 
-## Model outputs
+## Results
 
 <p align="center">
-  <img src="assets/model-results-carousel.webp" width="100%" alt="Auto-playing horizontal carousel of FocusFlow and FlowTrack video editing results">
+  <img src="assets/model-results-carousel.webp" width="100%" alt="FocusFlow and FlowTrack results">
 </p>
 
-<p align="center"><sub>Auto-playing source-to-target results from FocusFlow and FlowTrack. The carousel covers local semantic editing, object replacement, appearance editing, baseline comparisons, and temporal consistency across sampled frames.</sub></p>
+### Browse
 
-<details>
-  <summary><strong>Open full-resolution result sheets</strong></summary>
-  <br>
-  <a href="assets/focusflow-results.jpg">FocusFlow: representative edits</a> &middot;
-  <a href="assets/focusflow-comparison.jpg">FocusFlow: qualitative comparison</a> &middot;
-  <a href="assets/flowtrack-comparison.jpg">FlowTrack: qualitative comparison</a><br><br>
-  <a href="assets/flowtrack-cases-1a.jpg">FlowTrack cases 1-2</a> &middot;
-  <a href="assets/flowtrack-cases-1b.jpg">FlowTrack cases 3-4</a> &middot;
-  <a href="assets/flowtrack-cases-2a.jpg">FlowTrack cases 5-6</a> &middot;
-  <a href="assets/flowtrack-cases-2b.jpg">FlowTrack cases 7-8</a> &middot;
-  <a href="assets/flowtrack-cases-3a.jpg">FlowTrack cases 9-10</a> &middot;
-  <a href="assets/flowtrack-cases-3b.jpg">FlowTrack cases 11-12</a>
-</details>
+<table>
+  <tr>
+    <td align="center" valign="top"><a href="assets/focusflow-results.jpg"><img src="assets/focusflow-results.jpg" width="520" alt="FocusFlow results"></a><br><sub>FocusFlow</sub></td>
+    <td align="center" valign="top"><a href="assets/focusflow-comparison.jpg"><img src="assets/focusflow-comparison.jpg" width="520" alt="FocusFlow comparison"></a><br><sub>FocusFlow comparison</sub></td>
+    <td align="center" valign="top"><a href="assets/flowtrack-comparison.jpg"><img src="assets/flowtrack-comparison.jpg" width="520" alt="FlowTrack comparison"></a><br><sub>FlowTrack comparison</sub></td>
+    <td align="center" valign="top"><a href="assets/flowtrack-cases-1a.jpg"><img src="assets/flowtrack-cases-1a.jpg" width="520" alt="FlowTrack cases 1 and 2"></a><br><sub>FlowTrack 1-2</sub></td>
+    <td align="center" valign="top"><a href="assets/flowtrack-cases-1b.jpg"><img src="assets/flowtrack-cases-1b.jpg" width="520" alt="FlowTrack cases 3 and 4"></a><br><sub>FlowTrack 3-4</sub></td>
+    <td align="center" valign="top"><a href="assets/flowtrack-cases-2a.jpg"><img src="assets/flowtrack-cases-2a.jpg" width="520" alt="FlowTrack cases 5 and 6"></a><br><sub>FlowTrack 5-6</sub></td>
+    <td align="center" valign="top"><a href="assets/flowtrack-cases-2b.jpg"><img src="assets/flowtrack-cases-2b.jpg" width="520" alt="FlowTrack cases 7 and 8"></a><br><sub>FlowTrack 7-8</sub></td>
+    <td align="center" valign="top"><a href="assets/flowtrack-cases-3a.jpg"><img src="assets/flowtrack-cases-3a.jpg" width="520" alt="FlowTrack cases 9 and 10"></a><br><sub>FlowTrack 9-10</sub></td>
+    <td align="center" valign="top"><a href="assets/flowtrack-cases-3b.jpg"><img src="assets/flowtrack-cases-3b.jpg" width="520" alt="FlowTrack cases 11 and 12"></a><br><sub>FlowTrack 11-12</sub></td>
+  </tr>
+</table>
 
 ## Research journey
 
