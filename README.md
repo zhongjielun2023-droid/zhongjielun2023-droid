@@ -59,21 +59,25 @@ I am a Computer Science undergraduate at **Lanzhou University**, expected to gra
 
 ## Model outputs
 
-### FocusFlow | Reliable local semantic edits
-
 <p align="center">
-  <img src="assets/focusflow-results.jpg" width="100%" alt="FocusFlow video editing examples showing source and target frame sequences">
+  <img src="assets/model-results-carousel.webp" width="100%" alt="Auto-playing horizontal carousel of FocusFlow and FlowTrack video editing results">
 </p>
 
-<p align="center"><sub>Representative source-to-target frame sequences. FocusFlow performs strong semantic edits while preserving motion, scene layout, and non-target regions.</sub></p>
+<p align="center"><sub>Auto-playing source-to-target results from FocusFlow and FlowTrack. The carousel covers local semantic editing, object replacement, appearance editing, baseline comparisons, and temporal consistency across sampled frames.</sub></p>
 
-### FlowTrack | Stable edit-signal execution
-
-<p align="center">
-  <img src="assets/flowtrack-results.jpg" width="100%" alt="FlowTrack video editing examples showing source and target frame sequences">
-</p>
-
-<p align="center"><sub>Object replacement and appearance-editing examples across time. FlowTrack keeps the source trajectory and background structure stable while executing the requested edit.</sub></p>
+<details>
+  <summary><strong>Open full-resolution result sheets</strong></summary>
+  <br>
+  <a href="assets/focusflow-results.jpg">FocusFlow: representative edits</a> &middot;
+  <a href="assets/focusflow-comparison.jpg">FocusFlow: qualitative comparison</a> &middot;
+  <a href="assets/flowtrack-comparison.jpg">FlowTrack: qualitative comparison</a><br><br>
+  <a href="assets/flowtrack-cases-1a.jpg">FlowTrack cases 1-2</a> &middot;
+  <a href="assets/flowtrack-cases-1b.jpg">FlowTrack cases 3-4</a> &middot;
+  <a href="assets/flowtrack-cases-2a.jpg">FlowTrack cases 5-6</a> &middot;
+  <a href="assets/flowtrack-cases-2b.jpg">FlowTrack cases 7-8</a> &middot;
+  <a href="assets/flowtrack-cases-3a.jpg">FlowTrack cases 9-10</a> &middot;
+  <a href="assets/flowtrack-cases-3b.jpg">FlowTrack cases 11-12</a>
+</details>
 
 ## Research journey
 
