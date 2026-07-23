@@ -57,6 +57,24 @@ I am a Computer Science undergraduate at **Lanzhou University**, expected to gra
   </tr>
 </table>
 
+## Model outputs
+
+### FocusFlow | Reliable local semantic edits
+
+<p align="center">
+  <img src="assets/focusflow-results.jpg" width="100%" alt="FocusFlow video editing examples showing source and target frame sequences">
+</p>
+
+<p align="center"><sub>Representative source-to-target frame sequences. FocusFlow performs strong semantic edits while preserving motion, scene layout, and non-target regions.</sub></p>
+
+### FlowTrack | Stable edit-signal execution
+
+<p align="center">
+  <img src="assets/flowtrack-results.jpg" width="100%" alt="FlowTrack video editing examples showing source and target frame sequences">
+</p>
+
+<p align="center"><sub>Object replacement and appearance-editing examples across time. FlowTrack keeps the source trajectory and background structure stable while executing the requested edit.</sub></p>
+
 ## Research journey
 
 ### Shanghai Jiao Tong University | School of Artificial Intelligence
