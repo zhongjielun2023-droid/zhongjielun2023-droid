@@ -28,7 +28,7 @@ I am a Computer Science undergraduate at **Lanzhou University**, expected to gra
 > [!IMPORTANT]
 > Currently exploring **embodied intelligence** as a Research Intern at the School of Artificial Intelligence, Shanghai Jiao Tong University.
 
-## Research radar
+## Research interests
 
 <p align="center">
   <img src="https://img.shields.io/badge/Generative_AI-FF006E?style=for-the-badge" alt="Generative AI">
